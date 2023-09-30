@@ -1,0 +1,7 @@
+-ReactJs-JS library ->apply small portions of part.
+Framework->load all things
+=======JSX============
+// React js-18 version
+render method// just replace not apppend
+
+JSX makes our life easier when uses html tags.
